@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-> Your brain is the most complex structure in the known universe, containing about 86 billion neurons (86,000,000,000) and has more connections than the known number of stars in the Milky Way Galaxy. You ain't dumb bro. 🧠
+> Fact: Your brain is the most complex structure in the known universe, containing about 86 billion neurons (86,000,000,000) and has more connections than the known number of stars in the Milky Way Galaxy. You ain't dumb bro. 🧠
 
 ---
 
