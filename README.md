@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-> Fact: Your brain is the most complex structure in the known universe, containing about 86 billion neurons (86,000,000,000) and has more connections than the known number of stars in the Milky Way Galaxy. You ain't dumb bro. 🧠
+> Fact: Your brain is the most complex structure in the known universe, containing about 86 billion neurons (86,000,000,000) and has more connections than the known number of stars in the Milky Way Galaxy. You ain't dumb bro. 
 
 ---
 
@@ -21,15 +21,11 @@ I'm **Marks** (yes, Marks—not Mark, Marcus, Maxwell, Maxmilian, or Maximizing 
 
 ## My Journey
 
-I'm focused on my studies while staying active on GitHub and diving deeper into computer science. **Fair warning:** I'm not fluent in any coding language yet, but I'm working on it!
+Currently, I'm focusing more on my studies(KCSE📚), but I'm trying to stay active on GitHub and dive deeper into computer science. **Fair warning:** I'm not fluent in any coding language yet, but I'm working on it! 
 
-### Goals
-- Connect with like-minded people from different backgrounds
-- Become multilingual (slight foreshadowing 🙄)
-- **Currently:** Bilingual in English and Kiswahili
-- **Learning:** What should I learn next? 
-
+### Goal
+-Connect with like-minded people from different backgrounds. That means I'll be multilingual at some point in life😄. Well, currently I'm bilingual in English and Kiswahili, so I guess I can be a translator to anybody coming to Kenya🤷‍♂️. What language should I learn next?
 ---
 
-## Fun Fact
-To learn more about me, try finding me at a Drake concert near you. 🎤🎵
+## Anyway...
+To learn more about me, try finding me at a Drake concert near you 😅.
