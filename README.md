@@ -25,7 +25,7 @@ Currently, I'm focusing more on my studies(KCSE📚), but I'm trying to stay act
 
 ### Goal
 
--Connect with like-minded people from different backgrounds. That means I'll be multilingual at some point in life😄. Well, currently I'm bilingual in English and Kiswahili, so I guess I can be a translator to anybody coming to Kenya🤷‍♂️. What language should I learn next?
+-Connect with like-minded people from different backgrounds. That means I'll be multilingual at some point in life😄. Well, currently I'm fluent in English and Swahili, so I guess I have one more other language to learn in order to be multilingual. What language should I learn next?
 
 ---
 
