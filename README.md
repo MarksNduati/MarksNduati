@@ -1,10 +1,9 @@
-# Hey there! 👋
-
+# Hey! How's your day going?
 > *"Your brain is the most complex structure in the known universe — 86 billion neurons, more connections than stars in the Milky Way. You ain't dumb bro."* 🧠✨
 
 ---
 
-## About Me — *𝘕𝘪𝘫𝘶𝘦*
+## About Me 
 
 I'm **Marks** *(yes, Marks — not Mark, Marcus, Maxwell, Maximilian, or Maximizing 😂)*
 
@@ -14,7 +13,7 @@ I'm **Marks** *(yes, Marks — not Mark, Marcus, Maxwell, Maximilian, or Maximiz
 
 ---
 
-## Interests & Passions — *𝘕𝘪𝘯𝘢𝘤𝘩𝘰𝘱𝘦𝘯𝘥𝘢*
+## Interests & Passions
 
 - 💻 **CS Enthusiast** — the future is code, and I'm learning my way there
 - 🚗 **Car Addict** — engines, specs, aesthetics, all of it
@@ -22,7 +21,7 @@ I'm **Marks** *(yes, Marks — not Mark, Marcus, Maxwell, Maximilian, or Maximiz
 
 ---
 
-## My Journey — *𝘚𝘢𝘧𝘢𝘳𝘪 𝘠𝘢𝘯𝘨𝘶*
+## My Journey
 
 Right now **KCSE is the main quest** 📚 — but I'm staying active on GitHub and slowly levelling up in CS on the side. Fair warning: not fluent in any coding language *yet*. Key word: **yet.**
 ```python
@@ -35,25 +34,18 @@ marks = {
 
 ---
 
-## Goal — *𝘓𝘦𝘯𝘨𝘰*
+## Goal 
 
 🌍 Connect with people from every corner of the world — which means going multilingual is non-negotiable. Currently fluent in **English** and **Swahili**. One more language and I officially hit the milestone.
 
-> 💬 **Big question: what language should I learn next?**
-
----
-
-## GitHub Stats
-
-![Marks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarksNduati&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarksNduati&layout=compact&theme=tokyonight)
+> What language should I learn next?**
 
 ---
 
 ## Anyway....
 
-To learn more, find me at a **Drake concert near you** 🎤😅 *(good luck with that one)*
+To learn more, find me at a **Drake concert near you** *(good luck with that one)*
 
 ---
 
-*Stay curious. Stay building.* 🔥
+*Stay curious. Stay building.*
