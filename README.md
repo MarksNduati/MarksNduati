@@ -38,7 +38,7 @@ marks = {
 
 🌍 Connect with people from every corner of the world — which means going multilingual is non-negotiable. Currently fluent in **English** and **Swahili**. One more language and I officially hit the milestone.
 
-> What language should I learn next?**
+> What language should I learn next?
 
 ---
 
