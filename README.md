@@ -1,165 +1,71 @@
-# 🏁 MARKS | DRIVER PROFILE
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=120&section=header&text=MARKS&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=CC0000&center=true&vCenter=true&width=440&lines=17+y%2Fo+%7C+Thika%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;CS+enthusiast+%7C+car+addict+%7C+fact+nerd;KCSE+2025+%E2%80%94+final+lap;Not+Mark.+Not+Marcus.+Marks." alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+### who am i
+
+17 year old from Thika, Kenya. Currently deep in KCSE prep — think of it as the season finale where everything counts. When I'm not studying, I'm down a CS rabbit hole, reading something obscure, or thinking about cars way more than is probably healthy.
+
+> Your brain has 86 billion neurons and more connections than stars in the Milky Way. You're not dumb. Act accordingly.
+
+---
+
+### what i'm into
+
+🏎️ &nbsp;**Cars** — genuine addict, not just a vibe  
+💻 &nbsp;**CS** — not fluent in any language yet, but I'm getting there  
+📚 &nbsp;**Facts** — the random kind, always  
+🌍 &nbsp;**Languages** — fluent in English + Swahili. One away from multilingual. Suggestions open.
+
+---
+
+### where i'm at
+
+```
+currently        →   surviving KCSE 2025
+on github        →   lurking, learning, occasionally committing
+next goal        →   ship something real
+side quest       →   pick a 3rd language
+long game        →   connect with people from everywhere
+```
+
+---
+
+### stats
 
 <div align="center">
 
-![F1 Badge](https://img.shields.io/badge/Status-ON%20TRACK-critical?style=for-the-badge&logo=formula1&logoColor=white)
-![Age](https://img.shields.io/badge/Age-17-blue?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Thika%2C%20Kenya-brightgreen?style=flat-square)
-![KCSE](https://img.shields.io/badge/KCSE%202025-IN%20PROGRESS-yellow?style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=CC0000&icon_color=CC0000&text_color=ffffff&hide=stars)&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=CC0000&text_color=ffffff)
 
 </div>
 
 ---
 
-## 🎯 DRIVER BRIEFING
+### let's connect
 
-| Attribute | Status |
-|-----------|--------|
-| **Name** | Marks (not Mark, Marcus, Maxwell—**Marks**) |
-| **Team Base** | Thika, Kenya 🇰🇪 |
-| **Languages** | English ✅ • Swahili ✅ • Code Languages 🟠 (incoming) |
-| **Current Season** | High School Endurance Race (KCSE Mode Activated) |
-| **Pit Crew Interests** | Computer Science • Cars • Random Facts • Languages |
-
----
-
-## 🚀 PERFORMANCE METRICS
-
-### Current Lap Times
-
-```
-Season 2025 Progress
-████████░░ 80% | KCSE Preparation in Full Attack
-██████░░░░ 60% | Computer Science Learning Curve
-████░░░░░░ 40% | Coding Skills Development
-```
-
-### Podium Finishes
-
-- 🥇 Survived first 16 years without major system failures
-- 🥈 Discovered the beauty of cars (full addiction unlocked)
-- 🥉 Accumulated random facts like championship points
-
----
-
-## 💻 TECH STACK (UNDER DEVELOPMENT)
-
-<details>
-<summary><b>🛠️ Currently Learning</b></summary>
-
-| Category | Tools | Status |
-|----------|-------|--------|
-| **Languages** | Python, JavaScript (pending) | 🟠 Loading... |
-| **Version Control** | Git, GitHub | 🔵 Basic Competency |
-| **CS Fundamentals** | Algorithms, Data Structures | 🟠 In Progress |
-| **Problem Solving** | LeetCode, Project Euler | 🔵 Active Training |
-
-</details>
-
-<details>
-<summary><b>🏎️ The Car Addiction Pit Garage</b></summary>
-
-Because you can't talk about performance without the machines:
-
-- **Obsessed with:** Engine specs, aerodynamics, acceleration times
-- **Dream Fleet:** Anything that goes fast and looks good doing it
-- **Track Knowledge:** Mostly theoretical (for now)
-- **Fantasy Garage:** Open for suggestions
-
-</details>
-
-<details>
-<summary><b>🧠 Random Facts Database</b></summary>
-
-**Did you know?** Your brain contains approximately 86 billion neurons, each making thousands of connections. You're literally a universe inside your head—100 billion stars in the Milky Way, but your brain fires like 100 billion neurons. You're not small; you're infinite.
-
-**And:** The Ferraris in F1 have been the most iconic team in motorsports for over 75 years. They've won 16 Constructors' Championships. Still chasing that elusive drivers' championship consistency though.
-
-</details>
-
----
-
-## 🏆 CAREER ROADMAP
-
-### 2025 Season (Current)
-
-- [ ] Dominate KCSE exams
-- [ ] Maintain CS curiosity despite exam pressure
-- [ ] Learn at least one coding language properly
-- [ ] Keep the car obsession alive
-
-### Post-2025 (Season Finale & Beyond)
-
-- [ ] Deep dive into computer science
-- [ ] Build actual projects (not just tutorials)
-- [ ] Contribute to open-source repositories
-- [ ] Find the intersection between CS and engineering
-- [ ] Maybe write an F1 telemetry analyzer? 👀
-
----
-
-## 🤝 PIT CREW WANTED
-
-Looking to connect with people from all corners of the internet:
-
-**Let's talk about:**
-- 💻 Computer Science & Coding
-- 🚗 Cars, engines, and what makes them go fast
-- 🌍 Different cultures and perspectives
-- 📚 Random facts that shouldn't exist but do
-- 🗣️ Languages (English, Swahili, or code)
-
-**Say hi:**
-> Whether it's "mambo," a car fact, a coding question, or just want to chat—slide in. I'm actively building my network.
-
----
-
-## 📊 QUALIFYING RESULTS
-
-### What I'm About
-
-```
-Computer Science     ████░░░░░░ | Learning (The bugs chose me)
-Car Knowledge        ███████░░░ | Addiction Level: High
-Random Facts         █████████░ | Cannot Be Stopped
-Coding Skills        ██░░░░░░░░ | Coming Soon™
-```
-
-### Skill Development Curve
-
-```
-     Interest Level ▲
-                    │     ╱╲
-           Car      │   ╱    ╲
-           Knowledge│ ╱        ╲___
-                    │╱
-                    ├─── CS Learning
-            Coding  │   ╱────___
-            Skills  │ ╱
-                    └─────────────► Time
-```
-
----
-
-## 🎖️ CLOSING STATEMENT
-
-> "Be the kind of GitHub profile you wish you'd found when you were just starting out."
-
-Someone once told me that starting is the hardest part. So here I am—not perfect, not expert, but **on track**. Every lap teaches you something. Every bug is a lesson in disguise.
-
-I'm 17, from Kenya, currently in a high-school endurance race (KCSE), but my eyes are on the bigger championship ahead.
-
-Thanks for stopping by the garage. Hope to see you on the same track.
-
----
+If you're into CS, cars, random facts, or just want to say *mambo* — I'm around. Always down to meet people from different places and backgrounds. That's the whole point.
 
 <div align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-CC0000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-**GitHub** • **Thika, Kenya** 🇰🇪 • **Open to Collabs, Convos & Car Talks** 🚗
+<br/>
 
-`> session_end. see you at the next race. 🏁`
-
-![F1](https://img.shields.io/badge/-Formula%201-critical?style=flat-square&logo=formula1)
-![Kenya](https://img.shields.io/badge/-Kenya-brightgreen?style=flat-square)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CC0000&height=80&section=footer" width="100%"/>
 </div>
