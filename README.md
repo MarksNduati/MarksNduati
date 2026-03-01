@@ -1,5 +1,5 @@
 # Hey! How's your day going?
-> *"Your brain is the most complex structure in the known universe — 86 billion neurons, more connections than stars in the Milky Way. You ain't dumb bro."* 🧠✨
+> *Fact: Your brain is the most complex structure in the known universe — 86 billion neurons, more connections than stars in the Milky Way. You ain't dumb bro.* 
 
 ---
 
